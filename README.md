@@ -5,3 +5,4 @@
 
 <p><a href="/Structures/home.html" target="blank">Structures Home Page File</a>  -  <a href="https://alstuden.github.io/Structures/home.html" target="_blank">Structures Home Page Website</a> </p>
 
+<p><a href="/Beautification/home.html" target="blank">Beautification Home Page File</a>  -  <a href="https://alstuden.github.io/Beautification/home.html" target="_blank">Beautification Home Page Website</a> </p>
